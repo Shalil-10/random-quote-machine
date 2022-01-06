@@ -1,0 +1,18 @@
+* {
+    transition: all 0.9s ease-in-out;
+}
+
+.col-xs-4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cont{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fab{
+    color: white;
+}
